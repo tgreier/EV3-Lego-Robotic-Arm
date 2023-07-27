@@ -1,2 +1,2 @@
 # EV3-Lego-Robotic-Arm
-This is the EV3-Robotic-Arm code, if It doesn't work...
+It's in a zip file, you have to extract it before using
